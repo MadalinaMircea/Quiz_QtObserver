@@ -1,0 +1,5 @@
+1234,What is the height of Mount Everent?,8848 m,10
+5316,What programing language is this?,C++,5
+4234,What is 2 + 2?,4,1
+1624,What is the Capital of the U.S.?,Washington DC,15
+5264,What is the name of the first person who walked on the Moon?,Neil Armstrong,20
